@@ -1,7 +1,4 @@
-// import { getLedger } from '../../services/ledger/ledgerWrapper';
 import { getLedger, ledgerTypes } from '@findora-network/findora-sdk-v2-core';
-
-// import { AXfrKeyPair, AXfrPubKey, XfrKeyPair, XfrPublicKey } from '../../services/ledger/types';
 
 /**
  * A `light` version of the WalletKeypar, containing only address and publickey
